@@ -1,0 +1,19 @@
+{
+  "name": "scrape-ps4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ewint3/scrape-ps4.git"
+  },
+  "author": "Ewin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ewint3/scrape-ps4/issues"
+  },
+  "homepage": "https://github.com/ewint3/scrape-ps4#readme"
+}
